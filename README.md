@@ -3,4 +3,6 @@
 - Each player can choose a piece he wants to play with
 - code also asks to restart game and refreshes board
 - code also displays player stats of wins-losses
+- Game ends when any player is able to connect four of its pieces either, vertically, horizontally or diagonally
+
 
